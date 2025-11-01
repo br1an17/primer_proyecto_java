@@ -17,6 +17,13 @@ public class Main {
              """ + fechaDeLanzamiento;
      System.out.println(sinopsis);
 
+     int clasificacion;
+        clasificacion = (int)notaDeLaPelicula;
+        System.out.println(clasificacion);
+
+        int temperatura = 14;
+
+        System.out.println("fahrenheit:" + (temperatura * 1.8)+ 32) ;
 
     }
 }
