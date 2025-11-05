@@ -1,0 +1,8 @@
+# Carpetas de configuración y flujo de trabajo a ignorar
+.github/
+.idea/
+
+# Archivos de compilación de Java (opcional, pero recomendado)
+*.class
+/out/
+/build/
